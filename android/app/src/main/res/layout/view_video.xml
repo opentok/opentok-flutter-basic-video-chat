@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="horizontal"
+        android:gravity="center_horizontal"
+        android:layout_gravity="center_horizontal">
+
+    <FrameLayout
+            android:id="@+id/publisher_container"
+            android:layout_width="150dp"
+            android:layout_height="300dp"
+            android:background="#999999" />
+
+    <FrameLayout
+            android:id="@+id/subscriber_container"
+            android:layout_width="150dp"
+            android:layout_height="300dp"
+            android:background="#CCCCCC" />
+
+</LinearLayout>

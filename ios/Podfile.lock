@@ -1,0 +1,29 @@
+PODS:
+  - Flutter (1.0.0)
+  - OpenTok (2.19.1)
+  - "permission_handler (5.1.0+2)":
+    - Flutter
+
+DEPENDENCIES:
+  - Flutter (from `Flutter`)
+  - OpenTok
+  - permission_handler (from `.symlinks/plugins/permission_handler/ios`)
+
+SPEC REPOS:
+  trunk:
+    - OpenTok
+
+EXTERNAL SOURCES:
+  Flutter:
+    :path: Flutter
+  permission_handler:
+    :path: ".symlinks/plugins/permission_handler/ios"
+
+SPEC CHECKSUMS:
+  Flutter: 434fef37c0980e73bb6479ef766c45957d4b510c
+  OpenTok: 0c4b4f336462ed5e2aa18b9868eed971f922a09f
+  permission_handler: ccb20a9fad0ee9b1314a52b70b76b473c5f8dab0
+
+PODFILE CHECKSUM: 2d83e25a395f67ed69fe5ccbc539498e79e4105f
+
+COCOAPODS: 1.10.1
