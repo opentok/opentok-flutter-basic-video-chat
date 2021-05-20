@@ -1,4 +1,4 @@
-# opentok-android-sdk-basic-video-chat-flutter
+# opentok-flutter-basic-video-chat
 
 This repository is providing Basic video chat sample using OpenTok SDK and flutter.
 
