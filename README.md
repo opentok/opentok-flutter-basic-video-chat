@@ -1,6 +1,8 @@
 # opentok-flutter-basic-video-chat
 
-This repository is providing Basic video chat sample using OpenTok SDK and flutter.
+This repository is providing Basic video chat sample using OpenTok SDK and Flutter.
+
+This project is a kick off projet to explore Flutter integration and it is not oficially supported by Vonage.
 
 ## Setup flutter SDK
 
