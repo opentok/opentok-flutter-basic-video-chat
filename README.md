@@ -1,3 +1,7 @@
+# DEPRECATED 
+Please note this project is **no longer supported** For an up to date look at how you can use the Vonage Video SDK in a Flutter application checkout [Vonage-Community/sample-video-flutter-app](https://github.com/Vonage-Community/sample-video-flutter-app)
+
+
 # opentok-flutter-basic-video-chat
 
 This repository is providing Basic video chat sample using OpenTok SDK and Flutter.
