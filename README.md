@@ -1,3 +1,10 @@
+|<p align="left"> <h1> :warning: This repository is now deprecated :warning:</h1><br /><br /> <h2>Please consider using [Vonage Community Video Flutter Sample App](https://github.com/Vonage-Community/sample-video-flutter-app) instead.</h2> |
+|-----------------------------------------|
+  
+  
+<br /><br /><br /><br /><br /><br /><br />
+
+
 # opentok-flutter-basic-video-chat
 
 This repository is providing Basic video chat sample using OpenTok SDK and Flutter.
